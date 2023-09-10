@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I'm David
+
+This is the dumping ground of all of my (good) code. 
+I hope that you can find something that interests you around here.
+
+Here's a list of personal projects that I 💖 the most: 
+- [mepeyew](https://github.com/davnotdev/mepeyew) - A lightweight, cross platform graphics abstraction
+- [mewo](https://github.com/davnotdev/mewo) - A lightweight game engine ECS
+- [ROOM](https://github.com/davnotdev/Room) - A 3D shooter build on a 2D console
 
 <!--
 **davnotdev/davnotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
