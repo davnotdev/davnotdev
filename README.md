@@ -1,3 +1,6 @@
+<!--Get tracked suckas!-->
+![](https://hit.yhype.me/github/profile?user_id=91637806)
+
 ### 👋 Hi, I'm David
 
 This is the dumping ground of all of my (good) code. 
