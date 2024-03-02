@@ -6,7 +6,8 @@ I hope that you can find something that interests you around here.
 Here's a list of personal projects that I 💖 the most: 
 - [mepeyew](https://github.com/davnotdev/mepeyew) - A lightweight, cross platform graphics abstraction
 - [mewo](https://github.com/davnotdev/mewo) - A lightweight game engine ECS
-- [ROOM](https://github.com/davnotdev/Room) - A 3D shooter built on a 2D console
+- [ROOM](https://github.com/davnotdev/Room) - A 3D shooter for Hack Club's Sprig console
+- [Subway Sprigsters](https://github.com/davnotdev/subway_sprigsters) - A subway surfers inspired game for Hack Club's Sprig console 
 
 <!--Get tracked suckas!-->
 ![](https://hit.yhype.me/github/profile?user_id=91637806)
