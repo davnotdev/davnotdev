@@ -9,11 +9,6 @@ Here's a list of personal projects that I 💖 the most:
 - [ROOM](https://github.com/davnotdev/Room) - A 3D shooter for Hack Club's Sprig console
 - [Subway Sprigsters](https://github.com/davnotdev/subway_sprigsters) - A subway surfers inspired game for Hack Club's Sprig console 
 
-Exciting stuff I'm working on right now:
-- [Godot's WebGpu Driver](https://github.com/davnotdev/godot)
-- [Maze of the Silver Phoenix](https://github.com/davnotdev/maze_of_the_silver_phoenix)
-- [Hack Club's Burrow](https://github.com/hackclub/burrow)
-
 <!--Get tracked suckas!-->
 ![](https://hit.yhype.me/github/profile?user_id=91637806)
 
