@@ -1,9 +1,12 @@
 ### 👋 Hi, I'm David
 
-This is the dumping ground of all of my (good) code. 
+I'm a Computer Science and Engineering student at UCLA and a chronic stuff builder.
+
+I love everything involving graphics, low level, and anything Rust.
+
 I hope that you can find something that interests you around here.
 
-Here's a list of personal projects that I 💖 the most: 
+Here's a brief list of personal projects I've put lots 💖 into: 
 - [mepeyew](https://github.com/davnotdev/mepeyew) - A lightweight, cross platform graphics abstraction
 - [mewo](https://github.com/davnotdev/mewo) - A lightweight game engine ECS
 - [ROOM](https://github.com/davnotdev/Room) - A 3D shooter for Hack Club's Sprig console
