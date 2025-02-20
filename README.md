@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm David
 
-I'm a Computer Science and Engineering student at UCLA and a chronic stuff builder.
+I am a Computer Science and Engineering student at UCLA by day and chronic stuff builder by night.
+
+---
 
 I love everything involving graphics, low level, and anything Rust.
 
