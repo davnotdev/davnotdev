@@ -2,8 +2,6 @@
 
 I am a Computer Science and Engineering student at UCLA by day and chronic stuff builder by night.
 
-Reach me at [contact@davnot.dev](mailto:contact@davnot.dev)
-
 ---
 
 I love everything involving graphics, low level, and anything Rust.
@@ -15,6 +13,8 @@ Here's a brief list of personal projects I've put lots 💖 into:
 - [mewo](https://github.com/davnotdev/mewo) - A lightweight game engine ECS
 - [ROOM](https://github.com/davnotdev/Room) - A 3D shooter for Hack Club's Sprig console
 - [Subway Sprigsters](https://github.com/davnotdev/subway_sprigsters) - A subway surfers inspired game for Hack Club's Sprig console 
+
+Reach me at [contact@davnot.dev](mailto:contact@davnot.dev)
 
 <!--Get tracked suckas!-->
 ![](https://hit.yhype.me/github/profile?user_id=91637806)
