@@ -2,6 +2,8 @@
 
 I am a Computer Science and Engineering student at UCLA by day and chronic stuff builder by night.
 
+Reach me at [contact@davnot.dev](mailto:contact@davnot.dev)
+
 ---
 
 I love everything involving graphics, low level, and anything Rust.
